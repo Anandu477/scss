@@ -1,0 +1,6 @@
+$youcolor:#000056;
+
+.youDiv{
+  
+color:$youcolor;
+}
